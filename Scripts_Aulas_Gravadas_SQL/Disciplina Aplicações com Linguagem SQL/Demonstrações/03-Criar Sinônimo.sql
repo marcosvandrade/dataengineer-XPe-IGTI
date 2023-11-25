@@ -1,0 +1,5 @@
+--Selecionar o banco 
+USE [BDTESTE]
+GO
+
+CREATE SYNONYM TB_ALUNO_NEW FOR ALUNO;

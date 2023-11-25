@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Demonstração">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ULTRA-GU,1444:ULTRA-GU\gusta">
+          <Created>2020-07-21T00:19:19.0197526-03:00</Created>
+          <Type>SQL</Type>
+          <Server>ULTRA-GU,1444</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>AdventureWorks2019</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="00-Demo SSMS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>00-Demo SSMS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="00-Restore AdventureWorks2017.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>00-Restore AdventureWorks2017.sql</FullPath>
+        </FileNode>
+        <FileNode Name="01-Criar Banco.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01-Criar Banco.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02-Criar Tabelas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02-Criar Tabelas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03-Criar Sinônimo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03-Criar Sinônimo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04-Alter.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04-Alter.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05-Drop.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05-Drop.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06-Select.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06-Select.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07-Alias.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07-Alias.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08-CASE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08-CASE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09-Operadores Aritméticos e Concatenação.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09-Operadores Aritméticos e Concatenação.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10-ORDER BY.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10-ORDER BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11-Filtrando Dados.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11-Filtrando Dados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12-Funções de Caracteres.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12-Funções de Caracteres.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13-Funções de Data e Hora.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13-Funções de Data e Hora.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14-Conversões de Dados.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14-Conversões de Dados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15-Funções Agregadas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15-Funções Agregadas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16-GROUP BY.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16-GROUP BY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17-Filtrando Agrupamentos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17-Filtrando Agrupamentos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18-Introdução a JOINS.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>18-Introdução a JOINS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="19-INNER,SELF e CROSS JOIN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>19-INNER,SELF e CROSS JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20-OUTER JOIN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20-OUTER JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="21-SubConsulta Escalar.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>21-SubConsulta Escalar.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22-SubConsulta Multivalorada.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>22-SubConsulta Multivalorada.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23-SubConsulta Correlacionada.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>23-SubConsulta Correlacionada.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24-SubConsulta com Operadores de Conjunto.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>24-SubConsulta com Operadores de Conjunto.sql</FullPath>
+        </FileNode>
+        <FileNode Name="25-INSERT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>25-INSERT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="26-UPDATE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>26-UPDATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="27-DELETE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>27-DELETE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="28-Transações.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>28-Transações.sql</FullPath>
+        </FileNode>
+        <FileNode Name="29-Views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>29-Views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30-CTE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>30-CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="31-Procedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>31-Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="32-Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>32-Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="33-Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>33-Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="34-Linked Server.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ULTRA-GU,1444:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ULTRA-GU,1444</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>34-Linked Server.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
